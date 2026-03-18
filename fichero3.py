@@ -1,1 +1,0 @@
-print(voy a cagarla)
